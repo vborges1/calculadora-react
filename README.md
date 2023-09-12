@@ -1,14 +1,6 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
+## React- Calculadora simples
 
-
-<br />
-<div align="center">
-  <h3 align="center">React - Calculadora simples</h3>
-
-  <p align="center">
-    Simples projeto feito em React feito com base no curso da Cod3r
-  </p>
-</div>
+Simples projeto feito em React feito com base no curso da Cod3r
 
 ## Sobre
 
@@ -35,8 +27,5 @@ npm install && npm start
   npm install npm@latest -g
   ```
 
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/vitor-borges-5a3031206/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
