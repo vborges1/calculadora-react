@@ -6,7 +6,7 @@ Simples projeto feito em React feito com base no curso da Cod3r
 
 Calculadora simples feita em React
 
-### Construção
+### Feito em
 
 [![React][React.js]][React-url]
 
